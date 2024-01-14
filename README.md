@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @heroinsh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Heroin
+- 👀 I’m interested in Hack
+- 🌱 I’m currently learning python,javascript
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me  no way
 - 😄 Pronouns: weary
 - ⚡ Fun fact: im tired
