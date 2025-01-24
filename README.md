@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Heroin<br>👀 I’m interested in Hacking and creating apps, data extraction and web design<br>🌱 I’m currently learning python<br>💞️ I’m looking to collaborate on .<br>😄 Pronouns: weary<br>⚡ Fun fact: I worked in almost every field and I faced many sanctions
+👋 Hi, I’m Heroin<br>👀 I’m interested in Hacking and creating apps, data extraction and web design and create telegram bot<br>🌱 I’m currently learning python and Flutter<br>💞️ I’m looking to collaborate on .<br>😄 Pronouns: weary<br>⚡ Fun fact: I worked in almost every field and I faced many sanctions
 
 
 # 💻 Tech Stack:
