@@ -18,7 +18,7 @@
 
 <br/>
 
-<img align="right" src="https://i.postimg.cc/W33pxKkJ/Lucid-Realism-Create-a-highquality-3-D-animated-video-of-a-youn-0.jpg" alt="Animated Me" width="160"/>
+<img align="right" src="https://i.postimg.cc/W33pxKkJ/Lucid-Realism-Create-a-highquality-3-D-animated-video-of-a-youn-0.jpg" alt="Animated Me" width="260"/>
 
 ###
 
