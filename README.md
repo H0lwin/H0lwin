@@ -18,7 +18,7 @@
 
 <br/>
 
-<img align="right" src="https://postimg.cc/GHD7kWTv" alt="Animated Gif" width="160"/>
+<img align="right" src="https://postimg.cc/GHD7kWTv" alt="Animated Me" width="160"/>
 
 ###
 
